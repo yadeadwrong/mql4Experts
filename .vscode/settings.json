@@ -1,0 +1,51 @@
+{
+    "C_Cpp.default.includePath": [
+        "C:\\Program Files (x86)\\FTMO MetaTrader 4\\metaeditor.exe",
+        "C:\\Users\\claud\\AppData\\Roaming\\MetaQuotes\\Terminal\\2C68BEE3A904BDCEE3EEF5A5A77EC162\\MQL4\\Include"
+    ],
+    "C_Cpp.errorSquiggles": "disabled",
+    "mql_tools.context": true,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "token.error.mql",
+                "settings": {
+                    "foreground": "#F44747"
+                }
+            },
+            {
+                "scope": "token.done.mql",
+                "settings": {
+                    "foreground": "#029c23d3"
+                }
+            },
+            {
+                "scope": "token.warning.mql",
+                "settings": {
+                    "foreground": "#ff9d00"
+                }
+            },
+            {
+                "scope": "token.info.mql",
+                "settings": {
+                    "foreground": "#0861fc"
+                }
+            },
+            {
+                "scope": "token.heading.mql",
+                "settings": {
+                    "foreground": "#6796E6"
+                }
+            }
+        ]
+    },
+    "files.exclude": {
+        "**/*.ex4": true,
+        "**/*.ex5": true
+    },
+    "files.associations": {
+        "*.mqh": "cpp",
+        "*.mq4": "cpp",
+        "*.mq5": "cpp"
+    }
+}
